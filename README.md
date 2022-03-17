@@ -1,4 +1,6 @@
-## Olá eu sou Carlos Ítalo, criadora de programação e tecnologia!
+<div align="center">
+  <h1>Olá eu sou Carlos Ítalo, criadora de programação e tecnologia!</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/carlositaloo">
