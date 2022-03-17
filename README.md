@@ -1,5 +1,5 @@
 <div align="center">
-	<h2>Olá eu sou Carlos Ítalo, criadora de programação e tecnologia!</h2>
+	<h2>Olá eu sou Carlos Ítalo, criador de programação e tecnologia!</h2>
 </div>
 
 <div align="center">
