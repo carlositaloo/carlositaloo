@@ -40,6 +40,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="175px" max-width="175px" width="175px" align="right" alt="notebook wcfx">
 
-- 🔭 No momento estou trabalhando em concluir a Faculdade ADS!
-- 🌱 Atualmente estou aprendendo Python
+- 🌱 Em busca de oportunidade
+- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
+- 📚 Atualmente estou aprendendo Python
 - 😄 Apelido: iNooTh
