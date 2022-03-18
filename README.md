@@ -21,7 +21,7 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
-  ##
+##
   
   <a href="https://instagram.com/carlositaloo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
  	<a href="https://www.twitch.tv/iNooTh" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" align="center"></a>
@@ -34,7 +34,7 @@
     <img src="https://komarev.com/ghpvc/?username=carlositaloo&color=blueviolet">
   </p>
   
-  ##
+##
   
 </div>
 
