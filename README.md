@@ -46,7 +46,7 @@
 <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="175px" max-width="175px" width="175px" align="right" alt="notebook wcfx">
 -->
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="150px" max-width="150px" width="150px" align="right" alt="notebook wcfx">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="146px" max-width="146px" width="146px" align="right" alt="notebook wcfx">
 
 </a>
 
