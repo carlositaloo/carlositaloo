@@ -54,6 +54,6 @@
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
 - 📚 Atualmente estou aprendendo Python
 - 😄 Apelido: iNooTh
-
+##
 <img align="left" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
 <img align="right" alt="packman" height="30" width="40" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
