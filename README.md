@@ -1,6 +1,6 @@
 <div align="center">
-    <img align="left" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
-    <img align="right" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
+    <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
+    <img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
     <h2>👋 Olá eu sou Carlos Ítalo, criador de programação e tecnologia! 👋<p></p></h2>
 </div>
 
@@ -55,5 +55,5 @@
 - 📚 Atualmente estou aprendendo Python
 - 😄 Apelido: iNooTh
 ##
-<img align="left" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
-<img align="right" alt="packman" height="30" width="40" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
+<img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
+<img align="right" alt="packman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
