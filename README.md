@@ -1,7 +1,7 @@
 <div align="center">
     <img align="left" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
     <img align="right" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
-    <h2>Olá eu sou Carlos Ítalo, criador de programação e tecnologia!<p></p></h2>
+    <h2>👋 Olá eu sou Carlos Ítalo, criador de programação e tecnologia! 👋<p></p></h2>
 </div>
 
 <div align="center">
