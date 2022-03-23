@@ -1,5 +1,7 @@
 <div align="center">
-	<h2>👋 Olá eu sou Carlos Ítalo, criador de programação e tecnologia! 👋<p></p></h2>
+    <img align="left" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
+    <img align="right" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
+    <h2>Olá eu sou Carlos Ítalo, criador de programação e tecnologia!<p></p></h2>
 </div>
 
 <div align="center">
@@ -16,11 +18,11 @@
 -->
   
 <div style="display: inline_block" align="center"><br>
-  <img align="left" alt="Python" height="30" width="40" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
+
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Python" height="30" width="40" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
+  
 </a>
 	
 ##
@@ -32,6 +34,7 @@
   <a href="https://www.linkedin.com/in/carlositaloo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 ●
 <a href="https://github.com/carlositaloo">
+
   ![Snake animation](https://github.com/carlositaloo/carlositaloo/blob/output/github-contribution-grid-snake.svg)
   <p>
     <img src="https://komarev.com/ghpvc/?username=carlositaloo&color=blueviolet">
@@ -43,7 +46,7 @@
 <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="175px" max-width="175px" width="175px" align="right" alt="notebook wcfx">
 -->
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="140px" max-width="140px" width="120px" align="right" alt="notebook wcfx">
 
 </a>
 
@@ -51,3 +54,6 @@
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
 - 📚 Atualmente estou aprendendo Python
 - 😄 Apelido: iNooTh
+
+<img align="left" alt="ghost" height="30" width="40" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
+<img align="right" alt="packman" height="30" width="40" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
