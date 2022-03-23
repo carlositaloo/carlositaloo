@@ -46,13 +46,14 @@
 <!--
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="175px" max-width="175px" width="175px" align="right" alt="notebook wcfx">
 -->
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="140px" max-width="140px" width="120px" align="right" alt="notebook wcfx">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="160px" max-width="160px" width="160px" align="right" alt="notebook wcfx">
 
 </a>
 
 - 🌱 Em busca de oportunidade
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
 - 📚 Atualmente estou aprendendo Python
+- ✉️ Email: contato.carlositaloo@gmail.com
 - 😄 Apelido: iNooTh
 ##
 <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
