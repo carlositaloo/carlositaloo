@@ -1,11 +1,11 @@
 <div align="center">
+    <a href="https://github.com/carlositaloo">
     <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
     <img align="right" alt="packman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
     <h2>👋 Olá eu sou Carlos Ítalo, criador de programação e tecnologia! 👋<p></p></h2>
 </div>
 
 <div align="center">
-    <a href="https://github.com/carlositaloo">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlositaloo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlositaloo&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -57,5 +57,6 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 - ✉️ Email: contato.carlositaloo@gmail.com
 - 😄 Apelido: iNooTh
 ##
+<a href="https://github.com/carlositaloo">
 <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
-<img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
+<img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif"></a>
