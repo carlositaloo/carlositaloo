@@ -4,7 +4,7 @@
         <img align="right" alt="packman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
     </a>
     </br>
-        <h2>👋 Olá eu sou Carlos Ítalo, desenvolvidor de tecnologia! 👋<p></p></h2>
+        <h2>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋<p></p></h2>
 </div>
 
 
