@@ -53,11 +53,11 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="146px" max-width="146px" width="146px" align="right" alt="notebook wcfx">
 </a>
 
-- 🌱 Em busca de oportunidade
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
-- 📚 Atualmente estou aprendendo Python
-- ✉️ Email: contato.carlositaloo@gmail.com
-- 😄 Apelido: iNooTh
+> - 🌱 Em busca de oportunidade
+> - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
+> - 📚 Atualmente estou aprendendo Python
+> - ✉️ Email: contato.carlositaloo@gmail.com
+> - 😄 Apelido: iNooTh
 ##
 <a href="https://github.com/carlositaloo">
 <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
