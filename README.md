@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 -->
 <div align="center">
     <a href="https://github.com/carlositaloo">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" min-width="146px" max-width="146px" width="146px" align="right" alt="notebook wcfx">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="146" height="146" align="right" alt="notebook wcfx">
     </a>
 </div>
 
