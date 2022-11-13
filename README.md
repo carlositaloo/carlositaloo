@@ -28,7 +28,7 @@
         <img align="center" alt="Linux" height="32" width="32" src="https://i.ibb.co/v4J2JzV/iconmonstr-linux-os-1-240.png">
         <img align="center" alt="Google Clound" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
         <img align="center" alt="MySQL" height="32" width="32" src="https://i.ibb.co/pvwVDFV/Sem-T-tulo-2.png">
-	<img align="center" alt="MySQL" height="32" width="32" src="https://w7.pngwing.com/pngs/650/754/png-transparent-powershell-scripting-language-programming-language-path-shell-blue-angle-rectangle-thumbnail.png">
+	<img align="center" alt="MySQL" height="32" width="32" src="https://imgur.com/a/TCMhZS0">
     </a>
 </div>
 	
