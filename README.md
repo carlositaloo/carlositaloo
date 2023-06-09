@@ -20,7 +20,7 @@
 -->
   
 <div style="display: inline_block" align="center"><br>
-    <a href="https://github.com/carlositaloo">
+    <a href="#">
             <!-- https://github.com/devicons/devicon/tree/master/icons -->
         <img align="center" alt="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="C" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
