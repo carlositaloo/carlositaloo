@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/carlositaloo">
+	<a href="#">
 
   ![Snake animation](https://github.com/carlositaloo/carlositaloo/blob/output/github-contribution-grid-snake.svg)
     <p>
@@ -60,7 +60,7 @@
 https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
 -->
 <div align="center">
-    <a href="https://github.com/carlositaloo">
+	<a href="#">
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="146" height="146" align="right" alt="notebook wcfx">
     </a>
 </div>
@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 > <!-- > - 😄 Apelido: iNooTh -->
 ##
 <div>
-<a href="https://github.com/carlositaloo">
+<a href="#">
 <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
 <img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif"></a>
 </div>
