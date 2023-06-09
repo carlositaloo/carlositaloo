@@ -11,7 +11,7 @@
 <div align="center">
 	<a href="#">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlositaloo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=2234AE&title_color=EDBC2E&text_color=D3D3D3&border_color=1d2735&bg_color=0,0d1117,130F40"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlositaloo&layout=compact&langs_count=7&theme=dark&title_color=EDBC2E&custom_title=Linguagens%20dos%20projetos%20no%20Github&border_color=1d2735&bg_color=0,130F40,0d1117"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlositaloo&layout=compact&langs_count=7&theme=dark&title_color=EDBC2E&custom_title=Linguagens%20dos%20projetos:&border_color=1d2735&bg_color=0,130F40,0d1117"/>
     </a>
 </div>
 
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 -->
 <div align="center">
     <a href="#" onclick="return false;">
-        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="146" height="146" align="right" alt="notebook wcfx">
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="146" height="146" align="right" alt="notebook">
     </a>
 </div>
 
