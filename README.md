@@ -1,9 +1,9 @@
+<p>
+    <img style="pointer-events: none;" align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
+    <img style="pointer-events: none;" align="right" alt="pacman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
+</p>
+
 <div align="center">
-	<a href="#">
-        <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
-        <img align="right" alt="packman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
-    </a>
-    </br>
     <h2>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
     <p></p>
 </div>
