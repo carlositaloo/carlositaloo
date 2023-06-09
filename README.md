@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 > - ✉️ Email: contato.carlositaloo@gmail.com
 > - 👔 Currículo: [Clique aqui](https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf)
 > <!-- > - 😄 Apelido: iNooTh -->
-##
+<br>
 <div>
     <a onclick="return false;">
         <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
