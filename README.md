@@ -1,6 +1,7 @@
 <p>
-    <img style="pointer-events: none;" align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
-    <img style="pointer-events: none;" align="right" alt="pacman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
+	<a onclick="return false;">
+    	<img style="pointer-events: none;" align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
+    	<img style="pointer-events: none;" align="right" alt="pacman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
 </p>
 
 <div align="center">
@@ -71,7 +72,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 > <!-- > - 😄 Apelido: iNooTh -->
 ##
 <div>
-    <a href="#" onclick="return false;">
+    <a onclick="return false;">
         <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
         <img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
     </a>
