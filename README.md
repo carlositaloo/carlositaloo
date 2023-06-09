@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/carlositaloo">
+	<a href="#">
         <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
         <img align="right" alt="packman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
     </a>
@@ -9,7 +9,7 @@
 
 
 <div align="center">
-    <a href="https://github.com/carlositaloo">
+	<a href="#">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlositaloo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=2234AE&title_color=EDBC2E&text_color=D3D3D3&border_color=1d2735&bg_color=0,0d1117,130F40"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlositaloo&layout=compact&langs_count=7&theme=dark&title_color=EDBC2E&custom_title=Linguagens%20dos%20projetos%20no%20Github&border_color=1d2735&bg_color=0,130F40,0d1117"/>
     </a>
@@ -20,7 +20,7 @@
 -->
   
 <div style="display: inline_block" align="center"><br>
-    <a href="#">
+	<a href="#">
             <!-- https://github.com/devicons/devicon/tree/master/icons -->
         <img align="center" alt="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         <img align="center" alt="C" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
