@@ -3,7 +3,7 @@
     	<img style="pointer-events: none;" align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
     	<img style="pointer-events: none;" align="right" alt="pacman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
 </p>
-
+<br>
 <div align="center">
     <h2>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
     <p></p>
