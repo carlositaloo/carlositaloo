@@ -28,6 +28,7 @@
         <a href="#"><img align="center" alt="Linux" height="32" width="32" src="https://i.ibb.co/v4J2JzV/iconmonstr-linux-os-1-240.png"></a>
         <a href="#"><img align="center" alt="Google Cloud" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
         <a href="#"><img align="center" alt="MySQL" height="32" width="32" src="https://i.ibb.co/pvwVDFV/Sem-T-tulo-2.png"></a>
+	&nbsp;
 	<a href="#"><img align="center" alt="PowerShell" height="32" width="32" src="https://i.imgur.com/ehBAwIg.png"></a>
 </div>
 
