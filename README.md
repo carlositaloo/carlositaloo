@@ -22,13 +22,13 @@
 
 <div align="center"><br>
             <!-- https://github.com/devicons/devicon/tree/master/icons -->
-        <a href="#" img align="center" alt="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-        <a href="#" img align="center" alt="C" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
-        <a href="#" img align="center" alt="C++" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
-        <a href="#" img align="center" alt="Linux" height="32" width="32" src="https://i.ibb.co/v4J2JzV/iconmonstr-linux-os-1-240.png"></a>
-        <a href="#" img align="center" alt="Google Cloud" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
-        <a href="#" img align="center" alt="MySQL" height="32" width="32" src="https://i.ibb.co/pvwVDFV/Sem-T-tulo-2.png"></a>
-	<a href="#"img align="center" alt="PowerShell" height="32" width="32" src="https://i.imgur.com/ehBAwIg.png"></a>
+        <a href="#"><img align="center" alt="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+        <a href="#"><img align="center" alt="C" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
+        <a href="#"><img align="center" alt="C++" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
+        <a href="#"><img align="center" alt="Linux" height="32" width="32" src="https://i.ibb.co/v4J2JzV/iconmonstr-linux-os-1-240.png"></a>
+        <a href="#"><img align="center" alt="Google Cloud" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
+        <a href="#"><img align="center" alt="MySQL" height="32" width="32" src="https://i.ibb.co/pvwVDFV/Sem-T-tulo-2.png"></a>
+	<a href="#"><img align="center" alt="PowerShell" height="32" width="32" src="https://i.imgur.com/ehBAwIg.png"></a>
 </div>
 
 ##
