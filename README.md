@@ -63,10 +63,11 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 </div>
 
 > - 🌱 Em busca de oportunidade
-> - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas!
-> - 📚 Atualmente estou aprendendo Python
+> - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas!
+> - 🧩 Atualmente estou aprendendo Python
 > - ✉️ Email: contato.carlositaloo@gmail.com
 > - 👔 Currículo: [Clique aqui](https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf)
+> - 📁 Portifólio: [Clique aqui](https://github.com/carlositaloo/Portfolio)
 > <!-- > - 😄 Apelido: iNooTh -->
 <br>
 <div>
