@@ -1,8 +1,13 @@
-<p>
-	<a onclick="return false;">
-    	<img style="pointer-events: none;" align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
-    	<img style="pointer-events: none;" align="right" alt="pacman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
-</p>
+<div>
+    <a href="https://github.com/carlositaloo/Formata-o-Windows/tree/main/WindowsDebloater" onclick="return false;">
+        <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
+    </a>
+</div>
+<div>
+    <a href="https://github.com/carlositaloo/Portfolio" onclick="return false;">
+        <img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
+    </a>
+</div>
 <br>
 <div align="center">
     <h2>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
@@ -71,8 +76,12 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 > <!-- > - 😄 Apelido: iNooTh -->
 <br>
 <div>
-    <a onclick="return false;">
+    <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
         <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
+    </a>
+</div>
+<div>
+    <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
         <img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
     </a>
 </div>
