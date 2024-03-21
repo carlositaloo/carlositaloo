@@ -1,5 +1,5 @@
 <div>
-    <a href="https://github.com/carlositaloo/Formata-o-Windows/tree/main/WindowsDebloater" onclick="return false;">
+    <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
         <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
     </a>
 </div>
