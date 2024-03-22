@@ -1,8 +1,13 @@
-<p>
-	<a onclick="return false;">
-    	<img style="pointer-events: none;" align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
-    	<img style="pointer-events: none;" align="right" alt="pacman" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
-</p>
+<div>
+    <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
+        <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/cq8qwbRUWruRG/giphy.gif">
+    </a>
+</div>
+<div>
+    <a href="https://github.com/carlositaloo/Portfolio" onclick="return false;">
+        <img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/QU86X0DlOCBCL5feZZ/giphy.gif">
+    </a>
+</div>
 <br>
 <div align="center">
     <h2>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
@@ -11,8 +16,8 @@
 
 <div align="center">
 	<a href="#">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlositaloo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=2234AE&title_color=EDBC2E&text_color=D3D3D3&border_color=1d2735&bg_color=0,0d1117,130F40"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlositaloo&layout=compact&langs_count=7&theme=dark&title_color=EDBC2E&custom_title=Linguagens%20dos%20projetos:&border_color=1d2735&bg_color=0,130F40,0d1117"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carlositaloo&locale=pt-br&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=2234AE&title_color=EDBC2E&text_color=D3D3D3&border_color=1d2735&bg_color=0,0d1117,130F40"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlositaloo&locale=pt-br&layout=compact&langs_count=7&theme=dark&title_color=EDBC2E&border_color=1d2735&bg_color=0,130F40,0d1117"/>
     </a>
 </div>
 
@@ -57,7 +62,7 @@
 https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
 -->
 <div align="center">
-    <a href="#" onclick="return false;">
+    <a href="https://github.com/carlositaloo/Formata-o-Windows/tree/main/WindowsDebloater" onclick="return false;">
         <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="146" height="146" align="right" alt="notebook">
     </a>
 </div>
@@ -71,8 +76,12 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 > <!-- > - 😄 Apelido: iNooTh -->
 <br>
 <div>
-    <a onclick="return false;">
+    <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
         <img align="left" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/RAGUpYLsOX2Pm/giphy.gif">
+    </a>
+</div>
+<div>
+    <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
         <img align="right" alt="ghost" height="30" width="30" src="https://media.giphy.com/media/NctG5rLeF1Fm0/giphy.gif">
     </a>
 </div>
