@@ -35,7 +35,6 @@
     <a href="#"><img align="center" alt="PowerShell" title="PowerShell" height="32" width="32" src="https://skillicons.dev/icons?i=powershell"></a>
     <a href="#"><img align="center" alt="Linux" title="Linux" height="32" width="32" src="https://skillicons.dev/icons?i=linux"></a>
     <a href="#"><img align="center" alt="C" title="C" height="32" width="40" src="https://skillicons.dev/icons?i=c"></a>
-    <a href="#"><img align="center" alt="C++" title="C++" height="32" width="40" src="https://skillicons.dev/icons?i=cpp"></a>
     <a href="#"><img align="center" alt="Google Cloud" title="Google Cloud" height="32" width="40" src="https://skillicons.dev/icons?i=gcp"></a>
     <a href="#"><img align="center" alt="MySQL" title="MySQL" height="32" width="32" src="https://skillicons.dev/icons?i=mysql"></a>
 
