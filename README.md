@@ -9,8 +9,11 @@
     </a>
 </div>
 <br>
+
+
+
 <div align="center">
-    <h2>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
+    <h3>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
     <p></p>
 </div>
 
@@ -78,6 +81,7 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 > - 👔 **Currículo**: [**Clique aqui**](https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf)
 > - 📁 **Portifólio**: [**Clique aqui**](https://github.com/carlositaloo/Portfolio)
 > <!-- > - 😄 Apelido: iNooTh -->
+
 <br>
 <div>
     <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
