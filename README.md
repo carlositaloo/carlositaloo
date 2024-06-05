@@ -9,8 +9,11 @@
     </a>
 </div>
 <br>
+
+
+
 <div align="center">
-    <h2>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
+    <h3>👋 Olá eu sou Carlos Ítalo, desenvolvedor de tecnologia! 👋</h2>
     <p></p>
 </div>
 
@@ -26,25 +29,28 @@
 -->
 
 <div align="center"><br>
-            <!-- https://github.com/devicons/devicon/tree/master/icons -->
-        <a href="#"><img align="center" alt="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-        <a href="#"><img align="center" alt="C" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
-        <a href="#"><img align="center" alt="C++" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
-        <a href="#"><img align="center" alt="Linux" height="32" width="32" src="https://i.ibb.co/v4J2JzV/iconmonstr-linux-os-1-240.png"></a>
-        <a href="#"><img align="center" alt="Google Cloud" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></a>
-        <a href="#"><img align="center" alt="MySQL" height="32" width="32" src="https://i.ibb.co/pvwVDFV/Sem-T-tulo-2.png"></a>
-	&nbsp;
-	<a href="#"><img align="center" alt="PowerShell" height="32" width="32" src="https://i.imgur.com/ehBAwIg.png"></a>
+    <!-- https://github.com/devicons/devicon/tree/master/icons -->
+    <!-- https://github.com/tandpfun/skill-icons#readme -->
+    <a href="#"><img align="center" alt="Python" title="Python" height="32" width="40" src="https://skillicons.dev/icons?i=py"></a>
+    <a href="#"><img align="center" alt="PowerShell" title="PowerShell" height="32" width="32" src="https://skillicons.dev/icons?i=powershell"></a>
+    <a href="#"><img align="center" alt="Linux" title="Linux" height="32" width="32" src="https://skillicons.dev/icons?i=linux"></a>
+    <a href="#"><img align="center" alt="C" title="C" height="32" width="40" src="https://skillicons.dev/icons?i=c"></a>
+    <a href="#"><img align="center" alt="Google Cloud" title="Google Cloud" height="32" width="40" src="https://skillicons.dev/icons?i=gcp"></a>
+    <a href="#"><img align="center" alt="MySQL" title="MySQL" height="32" width="32" src="https://skillicons.dev/icons?i=mysql"></a>
+
 </div>
+
 
 ##
 
 <div align="center">
+	<a href="https://www.linkedin.com/in/carlositaloo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
+	<a href="https://api.whatsapp.com/send?phone=5588993082379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" align="center"></a>
 	<a href="https://www.instagram.com/carlositaloo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" align="center"></a>
         <a href="https://www.twitch.tv/iNooTh" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" align="center"></a>
         <a href="https://discord.gg/3ksGanN" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" align="center"></a>
         <a href="mailto:contato.carlositaloo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" align="center"></a>
-        <a href="https://www.linkedin.com/in/carlositaloo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
+        
 </div>
 
 <div align="center">
@@ -71,9 +77,10 @@ https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image
 > - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas!
 > - 🧩 Atualmente estou aprendendo Python
 > - ✉️ Email: contato.carlositaloo@gmail.com
-> - 👔 Currículo: [Clique aqui](https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf)
-> - 📁 Portifólio: [Clique aqui](https://github.com/carlositaloo/Portfolio)
+> - 👔 **Currículo**: [**Clique aqui**](https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf)
+> - 📁 **Portifólio**: [**Clique aqui**](https://github.com/carlositaloo/Portfolio)
 > <!-- > - 😄 Apelido: iNooTh -->
+
 <br>
 <div>
     <a href="https://github.com/carlositaloo/carlositaloo/blob/main/Curr%C3%ADculo/Curr%C3%ADculo_CARLOS_ITALO.pdf" onclick="return false;">
