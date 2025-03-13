@@ -68,7 +68,7 @@
 https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
 -->
 <div align="center">
-    <a href="https://github.com/carlositaloo/Formata-o-Windows/tree/main/WindowsDebloater" onclick="return false;">
+    <a href="https://github.com/carlositaloo/Windows-Debloater" onclick="return false;">
         <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="146" height="146" align="right" alt="notebook">
     </a>
 </div>
