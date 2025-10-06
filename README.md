@@ -53,14 +53,14 @@
         
 </div>
 
-<div align="center">
+<!-- <div align="center">
     <a href="#">
         <img src="https://github.com/carlositaloo/carlositaloo/blob/output/github-contribution-grid-snake.svg" align="center">
         <p>
             <img src="https://komarev.com/ghpvc/?username=carlositaloo&color=blueviolet">
         </p>
     </a>
-</div>
+</div> -->
 
 ##
 
